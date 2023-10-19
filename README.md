@@ -1,2 +1,2 @@
-# php-unit-test
-Learning how to test with php unit
+# sample unit tests
+ Learning how to test with php unut
